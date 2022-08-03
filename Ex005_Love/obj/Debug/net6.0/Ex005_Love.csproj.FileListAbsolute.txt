@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.AssemblyInfo.cs
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\bin\Debug\net6.0\Ex005_Love.exe
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\bin\Debug\net6.0\Ex005_Love.deps.json
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\bin\Debug\net6.0\Ex005_Love.runtimeconfig.json
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\bin\Debug\net6.0\Ex005_Love.dll
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\bin\Debug\net6.0\Ex005_Love.pdb
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.dll
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\refint\Ex005_Love.dll
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.pdb
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\Ex005_Love.genruntimeconfig.cache
+C:\Users\Anton\Desktop\Test\Examples\Ex005_Love\obj\Debug\net6.0\ref\Ex005_Love.dll
