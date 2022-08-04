@@ -1,8 +1,13 @@
-﻿int a = 3; 
-int b = 5; 
-int c = 8; 
-int d = 2; 
-int e = 4; 
+﻿int a = new Random().Next(1, 100);
+Console.WriteLine(a);
+int b = new Random().Next(1, 100);
+Console.WriteLine(b); 
+int c = new Random().Next(1, 100);
+Console.WriteLine(c); 
+int d = new Random().Next(1, 100);
+Console.WriteLine(d); 
+int e = new Random().Next(1, 100);
+Console.WriteLine(e); 
 int max = a; 
 if(b > max) 
 { 
